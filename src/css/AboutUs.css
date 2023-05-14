@@ -1,0 +1,24 @@
+.row{
+    border: 1px;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.bg-color2{
+    text-align: center;
+    color: rgb(19, 23, 18);
+    font-size: 75px;
+  }
+  .x1{ 
+     color: #121111;
+     background-color: darkgray;
+     margin-left: 15%;
+     margin-right: 15%;
+     font-size: 20px;
+
+  }
+  .x2{
+    text-align: center;
+    color: darkslategrey;
+  }
+  

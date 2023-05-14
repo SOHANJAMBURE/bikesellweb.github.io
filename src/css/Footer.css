@@ -1,0 +1,57 @@
+footer {
+    background-color: #f5f5f5;
+    padding: 50px 0;
+    font-size: 14px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  
+  .col-md-6 {
+    width: 50%;
+    padding: 0 15px;
+    box-sizing: border-box;
+  }
+  
+  h3 {
+    margin-top: 0;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  /* Styling for the first column of the footer */
+  .col-md-6:first-child {
+    background-color: black;
+    color: white;
+  }
+  
+  /* Styling for the second column of the footer */
+  .col-md-6:last-child {
+    background-color: white;
+    color: black;
+  }
+  
+  /* Styling for the copyright text */
+  .footer-bottom {
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+    color: #777;
+    font-size: 12px;
+  }
+  
